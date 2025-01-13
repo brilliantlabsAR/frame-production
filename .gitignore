@@ -1,0 +1,10 @@
+# Ignore VSCode user settings
+.vscode/settings.json
+
+# Temp focusing image and production logs
+focus_image.*
+log.txt
+frame-firmware-*.hex
+
+# Python virtual env
+.venv

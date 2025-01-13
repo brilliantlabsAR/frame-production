@@ -1,0 +1,3 @@
+[submodule "innowave"]
+	path = innowave
+	url = https://github.com/brilliantlabsAR/innowave-focusing-script.git
